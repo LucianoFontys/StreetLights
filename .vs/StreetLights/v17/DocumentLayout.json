@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\lucia\\source\\repos\\StreetLights\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucia\\source\\repos\\StreetLights\\StreetLights\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StreetLights\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{39DFBB6B-7126-4EDF-9901-954951DFCDBF}|StreetLights\\StreetLights.csproj|c:\\users\\lucia\\source\\repos\\streetlights\\streetlights\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39DFBB6B-7126-4EDF-9901-954951DFCDBF}|StreetLights\\StreetLights.csproj|solutionrelative:streetlights\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DFBB6B-7126-4EDF-9901-954951DFCDBF}|StreetLights\\StreetLights.csproj|c:\\users\\lucia\\source\\repos\\streetlights\\streetlights\\bussiness\\lamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DFBB6B-7126-4EDF-9901-954951DFCDBF}|StreetLights\\StreetLights.csproj|solutionrelative:streetlights\\bussiness\\lamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DFBB6B-7126-4EDF-9901-954951DFCDBF}|StreetLights\\StreetLights.csproj|c:\\users\\lucia\\source\\repos\\streetlights\\streetlights\\bussiness\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DFBB6B-7126-4EDF-9901-954951DFCDBF}|StreetLights\\StreetLights.csproj|solutionrelative:streetlights\\bussiness\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +34,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\StreetLights\\StreetLights\\Bussiness\\Schedule.cs",
+              "RelativeDocumentMoniker": "StreetLights\\Bussiness\\Schedule.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\StreetLights\\StreetLights\\Bussiness\\Schedule.cs",
+              "RelativeToolTip": "StreetLights\\Bussiness\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:50:00.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lamp.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\StreetLights\\StreetLights\\Bussiness\\Lamp.cs",
+              "RelativeDocumentMoniker": "StreetLights\\Bussiness\\Lamp.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\StreetLights\\StreetLights\\Bussiness\\Lamp.cs*",
+              "RelativeToolTip": "StreetLights\\Bussiness\\Lamp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:47:44.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\StreetLights\\StreetLights\\Form1.cs",
@@ -33,8 +67,12 @@
               "ToolTip": "C:\\Users\\lucia\\source\\repos\\StreetLights\\StreetLights\\Form1.cs [Design]",
               "RelativeToolTip": "StreetLights\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T10:26:08.231Z",
+              "WhenOpened": "2025-03-16T20:31:57.17Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
