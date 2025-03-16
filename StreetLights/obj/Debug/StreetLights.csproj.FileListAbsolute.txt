@@ -1,0 +1,9 @@
+C:\Users\lucia\Source\Repos\StreetLights\StreetLights\bin\Debug\StreetLights.exe.config
+C:\Users\lucia\Source\Repos\StreetLights\StreetLights\bin\Debug\StreetLights.exe
+C:\Users\lucia\Source\Repos\StreetLights\StreetLights\bin\Debug\StreetLights.pdb
+C:\Users\lucia\Source\Repos\StreetLights\StreetLights\obj\Debug\StreetLights.csproj.AssemblyReference.cache
+C:\Users\lucia\Source\Repos\StreetLights\StreetLights\obj\Debug\StreetLights.Properties.Resources.resources
+C:\Users\lucia\Source\Repos\StreetLights\StreetLights\obj\Debug\StreetLights.csproj.GenerateResource.cache
+C:\Users\lucia\Source\Repos\StreetLights\StreetLights\obj\Debug\StreetLights.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Source\Repos\StreetLights\StreetLights\obj\Debug\StreetLights.exe
+C:\Users\lucia\Source\Repos\StreetLights\StreetLights\obj\Debug\StreetLights.pdb
