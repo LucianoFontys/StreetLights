@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StreetLights.Data;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,8 @@ namespace StreetLights
         public Form1()
         {
             InitializeComponent();
+            Connection C = new Connection();
+            C.Main2();
         }
     }
 }

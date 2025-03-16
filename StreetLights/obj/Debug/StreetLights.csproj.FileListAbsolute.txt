@@ -7,3 +7,4 @@ C:\Users\lucia\Source\Repos\StreetLights\StreetLights\obj\Debug\StreetLights.csp
 C:\Users\lucia\Source\Repos\StreetLights\StreetLights\obj\Debug\StreetLights.csproj.CoreCompileInputs.cache
 C:\Users\lucia\Source\Repos\StreetLights\StreetLights\obj\Debug\StreetLights.exe
 C:\Users\lucia\Source\Repos\StreetLights\StreetLights\obj\Debug\StreetLights.pdb
+C:\Users\lucia\Source\Repos\StreetLights\StreetLights\obj\Debug\StreetLights.Form1.resources
